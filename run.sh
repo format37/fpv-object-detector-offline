@@ -1,0 +1,1 @@
+python detect_garbage.py dirsi-0-m.mp4 --output dirsi-0-m_detected.mp4 --model yolo11m.pt --confidence 0.25 -d 0
